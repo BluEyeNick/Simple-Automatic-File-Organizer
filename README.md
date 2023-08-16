@@ -1,6 +1,3 @@
-Great! Let's modify the README based on the new information you provided.
-
----
 
 # Simple Automatic File Organizer
 
